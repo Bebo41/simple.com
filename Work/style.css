@@ -3,10 +3,16 @@ h1 {
     text-align: center;
 }
 #button1 {
-    color: white;
+    color: black;
     background-color: lime;
+    margin-left: 500px;
+    padding: 10px 30px 10px 30px;
 }
 #button2 {
     color: black;
     background: red;
+    padding: 10px 30px 10px 30px;
+}
+p {
+    text-align: center;
 }
